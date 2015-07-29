@@ -1,0 +1,14 @@
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\bin\Debug\坐标计算.exe.config
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\bin\Debug\坐标计算.exe
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\bin\Debug\坐标计算.pdb
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.csprojResolveAssemblyReference.cache
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\MainWindow.g.cs
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\App.g.cs
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算_MarkupCompile.cache
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算_MarkupCompile.lref
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\MainWindow.baml
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.g.resources
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.Properties.Resources.resources
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.csproj.GenerateResource.Cache
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.exe
+c:\users\王卓\documents\visual studio 2015\Projects\坐标计算\坐标计算\obj\Debug\坐标计算.pdb
